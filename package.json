@@ -4,10 +4,10 @@
   "lockfileVersion": 3,
   "requires": true,
   "description": "A multi-room collaborative drawing app using Node.js, Express, and Socket.io",
-  "main": "server/server.js",
+  "main": "server.js",
   "packages": {},
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
